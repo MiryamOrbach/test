@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Projects\project\Clothing Store\04-WebAPI\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/01-Data Access Layer.dll">
+      <publishTime>10/19/2017 12:07:09</publishTime>
+    </File>
+    <File Include="bin/01-Data Access Layer.dll.config">
+      <publishTime>10/19/2017 11:47:41</publishTime>
+    </File>
+    <File Include="bin/01-Data Access Layer.pdb">
+      <publishTime>10/19/2017 12:07:09</publishTime>
+    </File>
+    <File Include="bin/02-Business Entities.dll">
+      <publishTime>10/18/2017 13:06:14</publishTime>
+    </File>
+    <File Include="bin/02-Business Entities.pdb">
+      <publishTime>10/18/2017 13:06:14</publishTime>
+    </File>
+    <File Include="bin/03-Business Logic.dll">
+      <publishTime>10/19/2017 12:07:10</publishTime>
+    </File>
+    <File Include="bin/03-Business Logic.dll.config">
+      <publishTime>08/27/2017 10:14:26</publishTime>
+    </File>
+    <File Include="bin/03-Business Logic.pdb">
+      <publishTime>10/19/2017 12:07:10</publishTime>
+    </File>
+    <File Include="bin/04-WebAPI.dll">
+      <publishTime>10/19/2017 12:07:14</publishTime>
+    </File>
+    <File Include="bin/04-WebAPI.pdb">
+      <publishTime>10/19/2017 12:07:14</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/01/2017 23:44:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/01/2017 23:44:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 02:10:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/08/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 03:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>01/28/2015 04:01:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>01/28/2015 04:03:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 03:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 03:03:46</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/27/2017 11:54:49</publishTime>
+    </File>
+    <File Include="Images/arcolpant.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/arcolsweater.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/babygro.jpg">
+      <publishTime>08/30/2017 00:44:20</publishTime>
+    </File>
+    <File Include="Images/beigepant.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/beigesweater.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/BlackBelt.jpg">
+      <publishTime>08/30/2017 00:43:36</publishTime>
+    </File>
+    <File Include="Images/BlackJacket.jpg">
+      <publishTime>08/30/2017 00:43:36</publishTime>
+    </File>
+    <File Include="Images/bluepinkcoat.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/bluesleeves.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/ChildrensBodysuits.jpg">
+      <publishTime>08/30/2017 00:44:20</publishTime>
+    </File>
+    <File Include="Images/dotsweater.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/dress.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/fashion-lettering-background.jpg">
+      <publishTime>08/30/2017 01:44:50</publishTime>
+    </File>
+    <File Include="Images/ginesshirt.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/golddots.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/lightbueshirt.jpeg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/offwhitecoat.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/pinkribbon.jpg">
+      <publishTime>08/30/2017 00:44:20</publishTime>
+    </File>
+    <File Include="Images/redblueshirt.jpg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/redribbon.jpg">
+      <publishTime>08/30/2017 00:44:20</publishTime>
+    </File>
+    <File Include="Images/redwhitebloose.jpg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/shifonshirt.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="Images/siversandal.jpg">
+      <publishTime>08/30/2017 00:43:50</publishTime>
+    </File>
+    <File Include="Images/whitetshirt.jpeg">
+      <publishTime>08/30/2017 00:44:07</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/27/2017 12:13:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/19/2017 12:07:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

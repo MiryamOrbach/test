@@ -1,0 +1,15 @@
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\03-Business Logic.dll.config
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\03-Business Logic.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\03-Business Logic.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\01-Data Access Layer.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\02-Business Entities.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\EntityFramework.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\01-Data Access Layer.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\01-Data Access Layer.dll.config
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\EntityFramework.xml
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Release\03-Business Logic.csprojResolveAssemblyReference.cache
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Release\03-Business Logic.dll
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Release\03-Business Logic.pdb

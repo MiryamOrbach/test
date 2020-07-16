@@ -1,0 +1,5 @@
+C:\Projects\project\Clothing Store\02-Business Entities\bin\Release\02-Business Entities.dll
+C:\Projects\project\Clothing Store\02-Business Entities\bin\Release\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Release\02-Business Entities.csprojResolveAssemblyReference.cache
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Release\02-Business Entities.dll
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Release\02-Business Entities.pdb

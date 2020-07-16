@@ -1,0 +1,10 @@
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\01-Data Access Layer.dll.config
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\01-Data Access Layer.dll
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\01-Data Access Layer.pdb
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\EntityFramework.dll
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\EntityFramework.xml
+C:\Projects\project\Clothing Store\01-Data Access Layer\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\project\Clothing Store\01-Data Access Layer\obj\Release\01-Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Projects\project\Clothing Store\01-Data Access Layer\obj\Release\01-Data Access Layer.dll
+C:\Projects\project\Clothing Store\01-Data Access Layer\obj\Release\01-Data Access Layer.pdb

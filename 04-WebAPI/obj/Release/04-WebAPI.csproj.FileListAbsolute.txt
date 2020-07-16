@@ -1,0 +1,57 @@
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\csc.exe
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\csc.exe.config
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\csc.rsp
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\csi.exe
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\csi.rsp
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.AppContext.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\vbc.exe
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\vbc.exe.config
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\vbc.rsp
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\project\Clothing Store\04-WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\project\Clothing Store\04-WebAPI\bin\04-WebAPI.dll.config
+C:\Projects\project\Clothing Store\04-WebAPI\bin\04-WebAPI.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\04-WebAPI.pdb
+C:\Projects\project\Clothing Store\04-WebAPI\bin\02-Business Entities.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\03-Business Logic.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\EntityFramework.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Cors.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.Cors.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\01-Data Access Layer.dll
+C:\Projects\project\Clothing Store\04-WebAPI\bin\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\04-WebAPI\bin\03-Business Logic.pdb
+C:\Projects\project\Clothing Store\04-WebAPI\bin\03-Business Logic.dll.config
+C:\Projects\project\Clothing Store\04-WebAPI\bin\EntityFramework.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.Cors.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\project\Clothing Store\04-WebAPI\bin\01-Data Access Layer.pdb
+C:\Projects\project\Clothing Store\04-WebAPI\bin\01-Data Access Layer.dll.config
+C:\Projects\project\Clothing Store\04-WebAPI\obj\Release\04-WebAPI.csprojResolveAssemblyReference.cache
+C:\Projects\project\Clothing Store\04-WebAPI\obj\Release\04-WebAPI.dll
+C:\Projects\project\Clothing Store\04-WebAPI\obj\Release\04-WebAPI.pdb

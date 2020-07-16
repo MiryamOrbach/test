@@ -1,0 +1,92 @@
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.pdb
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.dll
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.dll
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll.config
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.pdb
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.xml
+C:\Projects\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.csprojResolveAssemblyReference.cache
+C:\Projects\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.dll
+C:\Projects\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.csprojResolveAssemblyReference.cache
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll.config
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.xml
+C:\Projects\2017-07-19 C# Version\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\03-Business Logic.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\01-Data Access Layer.dll.config
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.xml
+C:\Projects\project\Clothing Store\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.csprojResolveAssemblyReference.cache
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.dll
+C:\Projects\project\Clothing Store\03-Business Logic\obj\Debug\03-Business Logic.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.xml
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csprojResolveAssemblyReference.cache
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.exe
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.pdb
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.exe
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.dll
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.dll
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.exe.config
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.pdb
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.xml
+F:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+F:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csprojResolveAssemblyReference.cache
+F:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csproj.CoreCompileInputs.cache
+F:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.dll
+F:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.pdb
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll.config
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.dll
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\03-Business Logic.pdb
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.exe
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.dll
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.dll
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.pdb
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\01-Data Access Layer.exe.config
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\02-Business Entities.pdb
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.xml
+D:\sendProject\ClothingStore\03-Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csprojAssemblyReference.cache
+D:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csproj.CoreCompileInputs.cache
+D:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.csproj.CopyComplete
+D:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.dll
+D:\sendProject\ClothingStore\03-Business Logic\obj\Debug\03-Business Logic.pdb

@@ -1,0 +1,32 @@
+C:\Projects\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.dll
+C:\Projects\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.pdb
+C:\Projects\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.csprojResolveAssemblyReference.cache
+C:\Projects\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.dll
+C:\Projects\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.pdb
+C:\Projects\2017-07-19 C# Version\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.csprojResolveAssemblyReference.cache
+C:\Projects\2017-07-19 C# Version\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.dll
+C:\Projects\2017-07-19 C# Version\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.dll
+C:\Projects\project\Clothing Store\02-Business Entities\bin\Debug\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.dll
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.pdb
+C:\Projects\project\Clothing Store\02-Business Entities\obj\Debug\02-Business Entities.csprojResolveAssemblyReference.cache
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.pdb
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.csprojResolveAssemblyReference.cache
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.dll
+C:\Users\L440\Desktop\להעביר למחשב\repos\miryam\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.pdb
+F:\sendProject\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.dll
+F:\sendProject\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.pdb
+F:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.csprojResolveAssemblyReference.cache
+F:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.csproj.CoreCompileInputs.cache
+F:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.dll
+F:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.pdb
+D:\sendProject\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.dll
+D:\sendProject\ClothingStore\02-Business Entities\bin\Debug\02-Business Entities.pdb
+D:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.csprojAssemblyReference.cache
+D:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.csproj.CoreCompileInputs.cache
+D:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.dll
+D:\sendProject\ClothingStore\02-Business Entities\obj\Debug\02-Business Entities.pdb
